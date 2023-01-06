@@ -4,4 +4,5 @@
 
 ## Dashboard Screen
 
-![Desktop View!](../NS-MarketPlace/client-side/public/Desktop-view.gif "Desktop View")
+![Phone](https://github.com/nashkispace/NS-MarketPlace/blob/main/client-side/public/Phone-view.gif)
+
