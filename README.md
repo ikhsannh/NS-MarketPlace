@@ -4,12 +4,4 @@
 
 ## Dashboard Screen
 
-![alt text](https://github.com/nashkispace/NS-MarketPlace/blob/main/client-side/public/Phone-view.gif"Phone View")
-
-
-
-![alt text](https://github.com/nashkispace/NS-MarketPlace/blob/main/client-side/public/Tablet-view.gif"Tablet View")
-
-
-
-![alt text](https://github.com/nashkispace/NS-MarketPlace/blob/main/client-side/public/Desktop-view.gif"Desktop View")
+![Desktop View!](../NS-MarketPlace/client-side/public/Desktop-view.gif "Desktop View")
